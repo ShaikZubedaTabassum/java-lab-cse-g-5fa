@@ -63,4 +63,6 @@ class QuadraticEquationSolution{
   }
 }
 ```
-
+## output:
+## cse-1(D>o):
+![Experiment 1 output](quad1.png)
