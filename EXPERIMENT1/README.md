@@ -22,5 +22,5 @@ class DisplayDefaultPrimitiveType{
    }
  }
 ```
-## output
-![experiment1 output](primitive .png)
+## output:
+![experiment1 output](primitive.png)
