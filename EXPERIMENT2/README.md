@@ -1,5 +1,4 @@
-experiment2
-## Experiment2
+#experiment
 ## 2a)Title:class mechanism in java
 ## Source code
 ``` java
