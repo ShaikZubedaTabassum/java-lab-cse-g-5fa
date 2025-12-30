@@ -26,3 +26,28 @@ System.out.println("perimeter of given rectangle:" +perimeter);
 ```
 ## output:
 ![experiment1 output](classmechanism.png)
+## Exp 2b) Title:implement method overloading
+ ## Source code:
+ ``` java
+class sum{
+int sum(int a,int b){
+return a+b;
+ }
+int sum(int a,int b,int c){
+return a+b+c;
+ }
+double sum(double a,double b){
+return a+b;
+  }
+}
+class main{
+public static void main(String args[]){
+sum s=new sum();
+System.out.println("sum of 2 integers:" +s.sum(12,13));
+System.out.println("sum of 3 integers:" +s.sum(12,13,14));
+System.out.println("sum of 2 real numbers:" +s.sum(12-625,1-23));
+  }
+}
+```
+#output
+![experiment2 output](overloading.png)
