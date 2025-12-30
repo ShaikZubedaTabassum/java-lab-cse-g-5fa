@@ -25,4 +25,4 @@ System.out.println("perimeter of given rectangle:" +perimeter);
 }
 ```
 ## output:
-![experiment1 output](class mechanism.png)
+![experiment1 output](classmechanism.png)
