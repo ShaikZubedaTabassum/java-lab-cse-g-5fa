@@ -51,3 +51,31 @@ System.out.println("sum of 2 real numbers:" +s.sum(12-625,1-23));
 ```
 ##output:
 ![experiment2 output](overloading.png)
+## Exp 2c) Title:to implement constuctor
+## source code:
+``` java
+class student{
+String sname;
+int sage;
+double smarks;
+student(String name,int age,double marks){
+sname=name;
+sage=age;
+smarks=marks;
+}
+void display(){
+System.out.println("student name:" +sname);
+System.out.println("student age:" +sage);
+System.out.println("student marks:" +smarks);
+  }
+}
+class main{
+public static void main(String args[]){
+student s=new student("zub",19,580);
+s.display();
+ }
+}
+```
+##output:
+![experiment2 output](constructor.png) 
+```
