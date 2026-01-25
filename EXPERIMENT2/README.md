@@ -25,7 +25,7 @@ System.out.println("perimeter of given rectangle:" +perimeter);
 }
 ```
 ## output:
-![experiment1 output](class mechanism.png)
+![experiment1 output](mechanism.png)
 ## Exp 2b) Title:implement method overloading
  ## Source code:
  ``` java
