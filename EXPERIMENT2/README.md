@@ -50,7 +50,7 @@ System.out.println("sum of 2 real numbers:" +s.sum(12-625,1-23));
 }
 ```
 ##output:
-![experiment2 output](overloading.png)
+![experiment2 output](overlapping.png)
 ## Exp 2c) Title:to implement constuctor
 ## source code:
 ``` java
