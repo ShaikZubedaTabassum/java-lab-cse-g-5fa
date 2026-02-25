@@ -137,4 +137,4 @@ class ThreadDemo {
 }
 ```
 # OUTPUT:
-![experiment 7 output](ThreadDemo.png)
+![experiment 7 output](threaddemo.png)
