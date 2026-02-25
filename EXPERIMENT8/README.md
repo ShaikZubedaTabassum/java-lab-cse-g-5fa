@@ -123,4 +123,4 @@ class SharedBuffer {
 }
 ```
 # OUTPUT:
-![experiment 8 output](sharedbuffer.png)
+![experiment 8 output](buffer.png)
