@@ -165,8 +165,7 @@ class PerfectNumber {
 
 
 # EXPERIMENT-5
-# Tilte: write a Java program that reads information about all the players and
-print team-wise list containing names of players with their batting average
+# Tilte: write a Java program that reads information about all the players
 # SourceCode:
 ``` java
 class Cricket {
@@ -237,4 +236,4 @@ class CricketMain {
 
  ```
 # Output:
-![experiment output](Cricket.png)
+![experiment output](cricket.png)
