@@ -237,4 +237,4 @@ class CricketMain {
 
  ```
 # Output:
-![experiment output](CricketMain.png)
+![experiment output](Cricket.png)
